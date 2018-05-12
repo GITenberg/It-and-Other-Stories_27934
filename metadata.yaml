@@ -1,0 +1,30 @@
+_repo: It-and-Other-Stories_27934
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Gouverneur
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '1721'
+    url: http://www.gutenberg.org/2009/agents/1721
+description: ''
+gutenberg_issued: '2009-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: It -- Two business women -- The trap -- Sapphira -- The bride's dead
+  -- Holding hands -- The claws of the tiger -- Growing up -- The battle of Aiken
+  -- An idyl of Pelham Bay Park -- Back there in the grass -- Asabri.
+title: It, and Other Stories
+url: http://www.gutenberg.org/ebooks/27934
